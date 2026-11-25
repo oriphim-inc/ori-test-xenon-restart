@@ -2,7 +2,7 @@
 
 # Reactor point kinetics, xenon transients and the restart window
 
-By held-out runner, with Ori. Asked by held-out runner: build a six-group point-kinetics model
+By Oriphim, with Ori. Asked by Oriphim: build a six-group point-kinetics model
 (U-235, β = 0.0065, Λ = 1e-4 s); (A) step insertions of 0.1–1.5β, (B) I-135/Xe-135 with
 temperature feedback, run to equilibrium at full power, shut down and follow xenon for 72 h,
 (C) find when xenon makes a restart impossible with 3000–5000 pcm excess reactivity.

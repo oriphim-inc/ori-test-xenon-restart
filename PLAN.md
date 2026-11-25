@@ -1,6 +1,6 @@
 # PLAN — reactor point kinetics, xenon transients and restart window
 
-Requested by held-out runner. Written by Ori before any run; this is what "agreed" means.
+Requested by Oriphim. Written by Ori before any run; this is what "agreed" means.
 
 ## Question
 1. **Part A** — For step reactivity insertions ρ = 0.1β … 1.5β (steps of 0.1β, 15 cases) into a
